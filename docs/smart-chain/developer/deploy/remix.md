@@ -72,6 +72,9 @@ Now, We have to deploy our smart contract on Binance Smart Chain Network. For th
 - Head over to [Faucet](https://testnet.binance.org/faucet-smart) and request test BNB
 
 - Now, let's Deploy the Smart Contract on Binance Smart Chain Testnet
+
+![OUQcH2xZcL](https://user-images.githubusercontent.com/102232212/159775814-2e617b9b-6885-42dd-9105-ccd9ef820429.png)
+
 - Select Injected Web3 in the Environment dropdown and your contract
 
 <img src="https://lh5.googleusercontent.com/Z4XBNJcsMWk5SzSKB8no5vAzv8ie46p4dbv4sh0_9FxIyMfEFlCj2z_a_ZUWR6l3fH9OIr3B2A0_Puh89FzbxlkLMVsTo9diSbLGdbp2Swml0afc7Unl10hBw9jsAY6Ozgbe6HqE" alt="img" style="zoom:33%;" />
