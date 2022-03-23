@@ -73,7 +73,7 @@ Now, We have to deploy our smart contract on Binance Smart Chain Network. For th
 
 - Now, let's Deploy the Smart Contract on Binance Smart Chain Testnet
 
-![OUQcH2xZcL](https://user-images.githubusercontent.com/102232212/159775814-2e617b9b-6885-42dd-9105-ccd9ef820429.png)
+![img: deploy](https://user-images.githubusercontent.com/102232212/159775814-2e617b9b-6885-42dd-9105-ccd9ef820429.png)
 
 - Select Injected Web3 in the Environment dropdown and your contract
 
